@@ -3,12 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Directions
-mkdir notes
-cd notes
-git clone https://github.com/Jteoh99/Notes
-cd Notes
-npm install
-npm start
+mkdir notes <br/>
+cd notes <br/>
+git clone https://github.com/Jteoh99/Notes <br/>
+cd Notes <br/>
+npm install <br/>
+npm start <br/>
 
 ## Available Scripts
 
