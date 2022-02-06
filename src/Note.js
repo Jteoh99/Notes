@@ -17,14 +17,7 @@ const Note = ({notes, setNotes, activeNote, setActiveNote}) => {
     let { id } = useParams(); // for /note/123 e.g.
 
 
-    /*
-    Jordan todo:
-    1 - When there is an id from /note/:id, then setActiveNote to that id
-        When there is no id (meaning on /home user clicks on "Create new",
-        then add a new note
-    2 - Use box-shadow on note-card
-    3 - Add some padding to the page so that "Create new" is not at the left edge of the page
-     */
+
 
     useEffect(() => {
         if (id) {
